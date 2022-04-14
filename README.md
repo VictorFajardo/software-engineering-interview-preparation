@@ -34,6 +34,7 @@
 - Linked Lists
 - Stacks
 - Queues
+- Heaps
 - Trees (Tries)
 - Hash Maps
 - Hash Sets
