@@ -35,13 +35,16 @@
 - Stacks
 - Queues
 - Trees (Tries)
-- Hash Tables
+- Hash Maps
+- Hash Sets
 - Graphs
 
 ### Algorithms
 
 - Binary Search
 - Sorting
+  - Quick Sort
+  - Merge Sort
 - Recursion
 - Divide and Conquer
 - Dynamic Programming
