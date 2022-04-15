@@ -40,7 +40,7 @@
 - Hash Sets
 - Graphs
 
-### Algorithms
+### Algorithms to Review
 
 - Binary Search
 - Sorting
