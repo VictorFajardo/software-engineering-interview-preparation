@@ -2,7 +2,7 @@
  * @param {number} n
  * @return {number[][]}
  */
-var generateMatrix = function (n) {
+const generateMatrix = (n) => {
   const matrix = new Array(n).fill(0).map(() => new Array(n).fill(0))
   const directions = [
     [0, 1],

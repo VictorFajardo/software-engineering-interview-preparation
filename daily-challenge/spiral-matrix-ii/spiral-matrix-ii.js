@@ -2,7 +2,6 @@
  * @param {number} n
  * @return {number[][]}
  */
-
 const generateMatrix = (n) => {
   const matrix = new Array(n).fill(0).map(() => new Array(n))
   let layer = 0
